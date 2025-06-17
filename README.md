@@ -85,7 +85,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-For questions or support, please contact [your-email@example.com](mailto:your-email@example.com)Sense AI
+For questions or support, please contact [atm.hasibur.rashid20367@gmail.com]Sense AI
 
 An AI-driven environmental monitoring system for detecting and predicting ecological threats using multi-modal data streams from satellites, drones, and IoT sensors.
 
